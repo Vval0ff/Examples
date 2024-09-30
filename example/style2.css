@@ -1,0 +1,15 @@
+@font-face{
+    font-family: "Montserrat light";
+    src: url(.//fonts/ofont.ru_Montserrat_light.ttf);
+    font-weight: 300;
+}
+
+p{
+    color: #808080;
+    font-family: "Montserrat light";
+    font-style: italic;
+    font-size: 55px;
+    text-align: center;
+    line-height: 1.5;
+
+}
